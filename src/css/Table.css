@@ -1,0 +1,11 @@
+/* table 가장 바깥 틀 */
+.ttt-table {
+  width: 500px; height: 500px; border: 2px solid rgb(0, 10, 10);
+  border-collapse: collapse;
+}
+
+/* table-body의 data */
+.ttt-tbody td {
+  border: 2px solid rgb(0, 10, 10); font-size: 400%; width: 164px; 
+  height: 164px; text-align: center;
+}
